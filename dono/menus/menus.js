@@ -482,7 +482,7 @@ Usuário:
 
 *•〢 Alterar Áudios*
 
-➥ ${prefixAudiolento (marca)
+➥ ${prefix}Audiolento (marca)
 ➥ ${prefix}Audiorapido (marca)
 ➥ ${prefix}Grave (marca)
 ➥ ${prefix}Grave2 (marca)
