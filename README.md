@@ -1,3 +1,8 @@
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/HunterTheCraft-Aleatory-v3.5)](https://repl.it/github/MagoInterior/HunterTheCraft-Aleatory-v3.5) 
+
+
 # Aleatory MD - BOT DE WHATSAPP
 <div align="center">
 <img src="https://telegra.ph/file/e6018110d95e1a9fc7efe.jpg" alt="Aleatory MD - BOT" width="300" />
